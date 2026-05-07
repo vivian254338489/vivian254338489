@@ -12,6 +12,7 @@ Start with:
 - LiteLLM fallback/rate-limit lab: https://github.com/vivian254338489/litellm-fallback-rate-limit-lab
 - JSON mode structured output cookbook: https://github.com/vivian254338489/json-mode-structured-output-cookbook
 - AI gateway pricing metadata kit: https://github.com/vivian254338489/ai-gateway-pricing-metadata-kit
+- OpenAI-compatible API conformance kit: https://github.com/vivian254338489/openai-compatible-api-conformance-kit
 - Endpoint tester: https://github.com/vivian254338489/openai-compatible-endpoint-tester
 - LiteLLM router config pack: https://github.com/vivian254338489/tken-litellm-router-config-pack
 - FastAPI gateway starter: https://github.com/vivian254338489/tken-fastapi-ai-gateway-starter
@@ -53,6 +54,7 @@ Useful entry points:
 | Reproduce LiteLLM fallback and rate-limit behavior | https://github.com/vivian254338489/litellm-fallback-rate-limit-lab |
 | Cook JSON mode and schema-shaped outputs | https://github.com/vivian254338489/json-mode-structured-output-cookbook |
 | Edit model pricing metadata and budget-routing notes | https://github.com/vivian254338489/ai-gateway-pricing-metadata-kit |
+| Produce an OpenAI-compatible API conformance report | https://github.com/vivian254338489/openai-compatible-api-conformance-kit |
 | Pick the right OpenAI-compatible setup | https://github.com/vivian254338489/tken-awesome-openai-compatible |
 | Test a custom OpenAI-compatible endpoint | https://github.com/vivian254338489/openai-compatible-endpoint-tester |
 | Configure LiteLLM routing and fallback | https://github.com/vivian254338489/tken-litellm-router-config-pack |
@@ -83,6 +85,7 @@ Useful entry points:
 | Routing cookbook | https://github.com/vivian254338489/openai-compatible-routing-cookbook |
 | Gateway starter | https://github.com/vivian254338489/tken-ai-gateway-starter |
 | Fallback proxy | https://github.com/vivian254338489/ai-model-fallback-proxy |
+| API conformance kit | https://github.com/vivian254338489/openai-compatible-api-conformance-kit |
 | Model router estimator | https://github.com/vivian254338489/model-router-bench-lite |
 | Pricing metadata kit | https://github.com/vivian254338489/ai-gateway-pricing-metadata-kit |
 | DeepSeek/Qwen compatible guide | https://github.com/vivian254338489/deepseek-qwen-openai-compatible-guide |
