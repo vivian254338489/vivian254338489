@@ -18,6 +18,7 @@ Start with:
 - Claude Desktop MCP config doctor: https://github.com/vivian254338489/claude-desktop-mcp-config-doctor
 - Structured output compatibility matrix: https://github.com/vivian254338489/structured-output-compat-matrix
 - Cursor Continue OpenAI router kit: https://github.com/vivian254338489/cursor-continue-openai-router-kit
+- MCP to OpenAI tool schema lab: https://github.com/vivian254338489/mcp-to-openai-tool-schema-lab
 - Endpoint tester: https://github.com/vivian254338489/openai-compatible-endpoint-tester
 - LiteLLM router config pack: https://github.com/vivian254338489/tken-litellm-router-config-pack
 - FastAPI gateway starter: https://github.com/vivian254338489/tken-fastapi-ai-gateway-starter
@@ -65,6 +66,7 @@ Useful entry points:
 | Validate Claude Desktop MCP config before restart | https://github.com/vivian254338489/claude-desktop-mcp-config-doctor |
 | Compare structured-output behavior across providers | https://github.com/vivian254338489/structured-output-compat-matrix |
 | Route coding tasks across Cursor and Continue configs | https://github.com/vivian254338489/cursor-continue-openai-router-kit |
+| Convert MCP schemas into OpenAI-style tool fixtures | https://github.com/vivian254338489/mcp-to-openai-tool-schema-lab |
 | Pick the right OpenAI-compatible setup | https://github.com/vivian254338489/tken-awesome-openai-compatible |
 | Test a custom OpenAI-compatible endpoint | https://github.com/vivian254338489/openai-compatible-endpoint-tester |
 | Configure LiteLLM routing and fallback | https://github.com/vivian254338489/tken-litellm-router-config-pack |
@@ -101,6 +103,7 @@ Useful entry points:
 | Claude Desktop MCP config doctor | https://github.com/vivian254338489/claude-desktop-mcp-config-doctor |
 | Structured output matrix | https://github.com/vivian254338489/structured-output-compat-matrix |
 | Cursor Continue router kit | https://github.com/vivian254338489/cursor-continue-openai-router-kit |
+| MCP to OpenAI tool schema lab | https://github.com/vivian254338489/mcp-to-openai-tool-schema-lab |
 | Model router estimator | https://github.com/vivian254338489/model-router-bench-lite |
 | Pricing metadata kit | https://github.com/vivian254338489/ai-gateway-pricing-metadata-kit |
 | DeepSeek/Qwen compatible guide | https://github.com/vivian254338489/deepseek-qwen-openai-compatible-guide |
