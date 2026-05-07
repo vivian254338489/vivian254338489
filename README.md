@@ -18,6 +18,7 @@ Start with:
 - Model route decider: https://github.com/vivian254338489/openai-compatible-model-route-decider
 - LiteLLM config wizard: https://github.com/vivian254338489/litellm-openai-compatible-config-wizard
 - Continue config wizard: https://github.com/vivian254338489/continue-openai-compatible-config-wizard
+- Cursor config wizard: https://github.com/vivian254338489/cursor-openai-compatible-config-wizard
 - Embeddings starter: https://github.com/vivian254338489/openai-compatible-embeddings-starter
 - Streaming/tool-calls tester: https://github.com/vivian254338489/openai-compatible-streaming-tool-calls
 - SDK smoke tests: https://github.com/vivian254338489/openai-compatible-sdk-smoke-tests
@@ -50,6 +51,7 @@ Useful entry points:
 | Decide which model route fits a task | https://github.com/vivian254338489/openai-compatible-model-route-decider |
 | Generate LiteLLM provider/fallback configs | https://github.com/vivian254338489/litellm-openai-compatible-config-wizard |
 | Generate Continue/VS Code assistant configs | https://github.com/vivian254338489/continue-openai-compatible-config-wizard |
+| Prepare Cursor-style provider setup notes | https://github.com/vivian254338489/cursor-openai-compatible-config-wizard |
 | Test embeddings and RAG setup | https://github.com/vivian254338489/openai-compatible-embeddings-starter |
 | Test streaming and tool-call behavior | https://github.com/vivian254338489/openai-compatible-streaming-tool-calls |
 | Run a compatibility smoke-test matrix | https://github.com/vivian254338489/openai-compatible-sdk-smoke-tests |
