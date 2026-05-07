@@ -20,6 +20,7 @@ Useful entry points:
 | OpenAI-compatible examples | https://github.com/vivian254338489/tken-openai-compatible-examples |
 | Gateway starter | https://github.com/vivian254338489/tken-ai-gateway-starter |
 | Fallback proxy | https://github.com/vivian254338489/ai-model-fallback-proxy |
+| DeepSeek/Qwen compatible guide | https://github.com/vivian254338489/deepseek-qwen-openai-compatible-guide |
 | Cost calculator | https://github.com/vivian254338489/tken-ai-api-cost-calculator |
 
 Disclosure: I work on TKEN-related tooling. The examples are designed to stay compatible with other OpenAI-compatible providers too.
