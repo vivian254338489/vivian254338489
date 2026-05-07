@@ -7,6 +7,9 @@ Start with:
 - Awesome OpenAI-compatible stack map: https://github.com/vivian254338489/tken-awesome-openai-compatible
 - Endpoint tester: https://github.com/vivian254338489/openai-compatible-endpoint-tester
 - LiteLLM router config pack: https://github.com/vivian254338489/tken-litellm-router-config-pack
+- FastAPI gateway starter: https://github.com/vivian254338489/tken-fastapi-ai-gateway-starter
+- LangChain starter: https://github.com/vivian254338489/openai-compatible-langchain-starter
+- Cursor/Windsurf guide: https://github.com/vivian254338489/tken-cursor-windsurf-base-url-guide
 - One-click AI stack: https://github.com/vivian254338489/tken-one-click-ai-stack
 - Latest runnable packages: https://github.com/vivian254338489/tken-one-click-ai-stack/releases/latest
 - Live AI API cost calculator: https://vivian254338489.github.io/tken-ai-api-cost-calculator/
@@ -23,6 +26,9 @@ Useful entry points:
 | Pick the right OpenAI-compatible setup | https://github.com/vivian254338489/tken-awesome-openai-compatible |
 | Test a custom OpenAI-compatible endpoint | https://github.com/vivian254338489/openai-compatible-endpoint-tester |
 | Configure LiteLLM routing and fallback | https://github.com/vivian254338489/tken-litellm-router-config-pack |
+| Build a FastAPI compatible gateway | https://github.com/vivian254338489/tken-fastapi-ai-gateway-starter |
+| Connect LangChain to a custom endpoint | https://github.com/vivian254338489/openai-compatible-langchain-starter |
+| Configure Cursor or Windsurf base URLs | https://github.com/vivian254338489/tken-cursor-windsurf-base-url-guide |
 | Full local gateway and UIs | https://github.com/vivian254338489/tken-one-click-ai-stack |
 | ChatGPT-style starter UI | https://github.com/vivian254338489/chatgpt-web-ui-tken-starter |
 | Open WebUI connector | https://github.com/vivian254338489/tken-openwebui-pipelines |
