@@ -18,6 +18,7 @@ Useful entry points:
 | Open WebUI connector | https://github.com/vivian254338489/tken-openwebui-pipelines |
 | VS Code / Continue config | https://github.com/vivian254338489/tken-vscode-continue-config-pack |
 | OpenAI-compatible examples | https://github.com/vivian254338489/tken-openai-compatible-examples |
+| Routing cookbook | https://github.com/vivian254338489/openai-compatible-routing-cookbook |
 | Gateway starter | https://github.com/vivian254338489/tken-ai-gateway-starter |
 | Fallback proxy | https://github.com/vivian254338489/ai-model-fallback-proxy |
 | Model router estimator | https://github.com/vivian254338489/model-router-bench-lite |
