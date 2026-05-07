@@ -4,6 +4,7 @@ I am building small runnable packages for developers who want to test OpenAI-com
 
 Start with:
 
+- Agent tooling landing page: https://vivian254338489.github.io/openai-compatible-agent-tooling-landing/
 - Awesome OpenAI-compatible stack map: https://github.com/vivian254338489/tken-awesome-openai-compatible
 - Endpoint tester: https://github.com/vivian254338489/openai-compatible-endpoint-tester
 - LiteLLM router config pack: https://github.com/vivian254338489/tken-litellm-router-config-pack
@@ -39,6 +40,7 @@ Useful entry points:
 
 | Need | Project |
 | --- | --- |
+| Browse agent, MCP, and compatible endpoint tooling | https://vivian254338489.github.io/openai-compatible-agent-tooling-landing/ |
 | Pick the right OpenAI-compatible setup | https://github.com/vivian254338489/tken-awesome-openai-compatible |
 | Test a custom OpenAI-compatible endpoint | https://github.com/vivian254338489/openai-compatible-endpoint-tester |
 | Configure LiteLLM routing and fallback | https://github.com/vivian254338489/tken-litellm-router-config-pack |
