@@ -6,6 +6,7 @@ Start with:
 
 - Agent tooling landing page: https://vivian254338489.github.io/openai-compatible-agent-tooling-landing/
 - Awesome OpenAI-compatible stack map: https://github.com/vivian254338489/tken-awesome-openai-compatible
+- MCP OpenAI gateway starter: https://github.com/vivian254338489/mcp-openai-gateway-starter
 - Endpoint tester: https://github.com/vivian254338489/openai-compatible-endpoint-tester
 - LiteLLM router config pack: https://github.com/vivian254338489/tken-litellm-router-config-pack
 - FastAPI gateway starter: https://github.com/vivian254338489/tken-fastapi-ai-gateway-starter
@@ -41,6 +42,7 @@ Useful entry points:
 | Need | Project |
 | --- | --- |
 | Browse agent, MCP, and compatible endpoint tooling | https://vivian254338489.github.io/openai-compatible-agent-tooling-landing/ |
+| Generate MCP client configs for a compatible gateway | https://github.com/vivian254338489/mcp-openai-gateway-starter |
 | Pick the right OpenAI-compatible setup | https://github.com/vivian254338489/tken-awesome-openai-compatible |
 | Test a custom OpenAI-compatible endpoint | https://github.com/vivian254338489/openai-compatible-endpoint-tester |
 | Configure LiteLLM routing and fallback | https://github.com/vivian254338489/tken-litellm-router-config-pack |
