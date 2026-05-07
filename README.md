@@ -8,6 +8,7 @@ Start with:
 - Awesome OpenAI-compatible stack map: https://github.com/vivian254338489/tken-awesome-openai-compatible
 - MCP OpenAI gateway starter: https://github.com/vivian254338489/mcp-openai-gateway-starter
 - Claude Desktop MCPB starter: https://github.com/vivian254338489/claude-desktop-mcpb-starter
+- Open WebUI gateway recipes: https://github.com/vivian254338489/open-webui-gateway-recipes
 - Endpoint tester: https://github.com/vivian254338489/openai-compatible-endpoint-tester
 - LiteLLM router config pack: https://github.com/vivian254338489/tken-litellm-router-config-pack
 - FastAPI gateway starter: https://github.com/vivian254338489/tken-fastapi-ai-gateway-starter
@@ -45,6 +46,7 @@ Useful entry points:
 | Browse agent, MCP, and compatible endpoint tooling | https://vivian254338489.github.io/openai-compatible-agent-tooling-landing/ |
 | Generate MCP client configs for a compatible gateway | https://github.com/vivian254338489/mcp-openai-gateway-starter |
 | Package a Claude Desktop MCPB extension | https://github.com/vivian254338489/claude-desktop-mcpb-starter |
+| Connect Open WebUI to compatible gateways | https://github.com/vivian254338489/open-webui-gateway-recipes |
 | Pick the right OpenAI-compatible setup | https://github.com/vivian254338489/tken-awesome-openai-compatible |
 | Test a custom OpenAI-compatible endpoint | https://github.com/vivian254338489/openai-compatible-endpoint-tester |
 | Configure LiteLLM routing and fallback | https://github.com/vivian254338489/tken-litellm-router-config-pack |
