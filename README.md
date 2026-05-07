@@ -9,6 +9,10 @@ Start with:
 - Live AI API cost calculator: https://vivian254338489.github.io/tken-ai-api-cost-calculator/
 - TKEN API endpoint: `https://www.tken.shop/v1`
 
+Need an OpenAI-compatible endpoint for testing?
+
+Start here: https://www.tken.shop/?utm_source=github&utm_medium=profile_readme&utm_campaign=customer_acquisition&utm_content=need_endpoint
+
 Useful entry points:
 
 | Need | Project |
