@@ -11,9 +11,12 @@ Start with:
 - LangChain starter: https://github.com/vivian254338489/openai-compatible-langchain-starter
 - Cursor/Windsurf guide: https://github.com/vivian254338489/tken-cursor-windsurf-base-url-guide
 - MCP endpoint diagnostics server: https://github.com/vivian254338489/openai-compatible-mcp-server
+- Agent skills/rules pack: https://github.com/vivian254338489/agent-skills-openai-compatible-pack
 - Embeddings starter: https://github.com/vivian254338489/openai-compatible-embeddings-starter
 - Streaming/tool-calls tester: https://github.com/vivian254338489/openai-compatible-streaming-tool-calls
 - SDK smoke tests: https://github.com/vivian254338489/openai-compatible-sdk-smoke-tests
+- JSON mode validator: https://github.com/vivian254338489/openai-compatible-json-mode-validator
+- Rate-limit retry kit: https://github.com/vivian254338489/openai-compatible-rate-limit-retry-kit
 - One-click AI stack: https://github.com/vivian254338489/tken-one-click-ai-stack
 - Latest runnable packages: https://github.com/vivian254338489/tken-one-click-ai-stack/releases/latest
 - Live AI API cost calculator: https://vivian254338489.github.io/tken-ai-api-cost-calculator/
@@ -34,9 +37,12 @@ Useful entry points:
 | Connect LangChain to a custom endpoint | https://github.com/vivian254338489/openai-compatible-langchain-starter |
 | Configure Cursor or Windsurf base URLs | https://github.com/vivian254338489/tken-cursor-windsurf-base-url-guide |
 | Give agents an MCP endpoint diagnostic tool | https://github.com/vivian254338489/openai-compatible-mcp-server |
+| Copy agent skills/rules for compatible endpoints | https://github.com/vivian254338489/agent-skills-openai-compatible-pack |
 | Test embeddings and RAG setup | https://github.com/vivian254338489/openai-compatible-embeddings-starter |
 | Test streaming and tool-call behavior | https://github.com/vivian254338489/openai-compatible-streaming-tool-calls |
 | Run a compatibility smoke-test matrix | https://github.com/vivian254338489/openai-compatible-sdk-smoke-tests |
+| Validate JSON mode and structured outputs | https://github.com/vivian254338489/openai-compatible-json-mode-validator |
+| Add 429 retry, backoff, and fallback handling | https://github.com/vivian254338489/openai-compatible-rate-limit-retry-kit |
 | Full local gateway and UIs | https://github.com/vivian254338489/tken-one-click-ai-stack |
 | ChatGPT-style starter UI | https://github.com/vivian254338489/chatgpt-web-ui-tken-starter |
 | Open WebUI connector | https://github.com/vivian254338489/tken-openwebui-pipelines |
