@@ -20,6 +20,7 @@ Start with:
 - Provider switch checklist: https://github.com/vivian254338489/openai-compatible-provider-switch-checklist
 - Provider migration CI kit: https://github.com/vivian254338489/openai-compatible-provider-migration-ci-kit
 - Prompt regression CI kit: https://github.com/vivian254338489/openai-compatible-prompt-regression-ci-kit
+- Billing reconciliation kit: https://github.com/vivian254338489/openai-compatible-billing-reconciliation-kit
 - Cost guardrail kit: https://github.com/vivian254338489/openai-compatible-cost-guardrail-kit
 - Gateway eval harness: https://github.com/vivian254338489/openai-compatible-gateway-eval-harness
 - LLM gateway usage observability starter: https://github.com/vivian254338489/llm-gateway-usage-observability-starter
@@ -80,6 +81,7 @@ Useful entry points:
 | Compare a provider switch before changing `base_url` | https://github.com/vivian254338489/openai-compatible-provider-switch-checklist |
 | Add provider migration checks to CI | https://github.com/vivian254338489/openai-compatible-provider-migration-ci-kit |
 | Catch prompt and output regressions in CI | https://github.com/vivian254338489/openai-compatible-prompt-regression-ci-kit |
+| Reconcile usage logs against balance or invoice rows | https://github.com/vivian254338489/openai-compatible-billing-reconciliation-kit |
 | Put budget guardrails around gateway usage logs | https://github.com/vivian254338489/openai-compatible-cost-guardrail-kit |
 | Compare gateway routes with offline eval cases | https://github.com/vivian254338489/openai-compatible-gateway-eval-harness |
 | Analyze gateway usage, costs, latency, and errors offline | https://github.com/vivian254338489/llm-gateway-usage-observability-starter |
