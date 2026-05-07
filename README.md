@@ -10,6 +10,7 @@ Start with:
 - Claude Desktop MCPB starter: https://github.com/vivian254338489/claude-desktop-mcpb-starter
 - Open WebUI gateway recipes: https://github.com/vivian254338489/open-webui-gateway-recipes
 - LiteLLM fallback/rate-limit lab: https://github.com/vivian254338489/litellm-fallback-rate-limit-lab
+- JSON mode structured output cookbook: https://github.com/vivian254338489/json-mode-structured-output-cookbook
 - Endpoint tester: https://github.com/vivian254338489/openai-compatible-endpoint-tester
 - LiteLLM router config pack: https://github.com/vivian254338489/tken-litellm-router-config-pack
 - FastAPI gateway starter: https://github.com/vivian254338489/tken-fastapi-ai-gateway-starter
@@ -49,6 +50,7 @@ Useful entry points:
 | Package a Claude Desktop MCPB extension | https://github.com/vivian254338489/claude-desktop-mcpb-starter |
 | Connect Open WebUI to compatible gateways | https://github.com/vivian254338489/open-webui-gateway-recipes |
 | Reproduce LiteLLM fallback and rate-limit behavior | https://github.com/vivian254338489/litellm-fallback-rate-limit-lab |
+| Cook JSON mode and schema-shaped outputs | https://github.com/vivian254338489/json-mode-structured-output-cookbook |
 | Pick the right OpenAI-compatible setup | https://github.com/vivian254338489/tken-awesome-openai-compatible |
 | Test a custom OpenAI-compatible endpoint | https://github.com/vivian254338489/openai-compatible-endpoint-tester |
 | Configure LiteLLM routing and fallback | https://github.com/vivian254338489/tken-litellm-router-config-pack |
