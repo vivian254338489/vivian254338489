@@ -17,6 +17,9 @@ Start with:
 - OpenAI-compatible API conformance kit: https://github.com/vivian254338489/openai-compatible-api-conformance-kit
 - OpenWebUI TokenFlow starter: https://github.com/vivian254338489/openwebui-tokenflow-starter
 - LiteLLM pricing metadata diff: https://github.com/vivian254338489/litellm-pricing-metadata-diff
+- Provider switch checklist: https://github.com/vivian254338489/openai-compatible-provider-switch-checklist
+- Cost guardrail kit: https://github.com/vivian254338489/openai-compatible-cost-guardrail-kit
+- Gateway eval harness: https://github.com/vivian254338489/openai-compatible-gateway-eval-harness
 - LLM gateway usage observability starter: https://github.com/vivian254338489/llm-gateway-usage-observability-starter
 - OpenAI-compatible log redaction kit: https://github.com/vivian254338489/openai-compatible-log-redaction-kit
 - Claude Desktop MCP config doctor: https://github.com/vivian254338489/claude-desktop-mcp-config-doctor
@@ -72,6 +75,9 @@ Useful entry points:
 | Produce an OpenAI-compatible API conformance report | https://github.com/vivian254338489/openai-compatible-api-conformance-kit |
 | Connect Open WebUI to a unified gateway | https://github.com/vivian254338489/openwebui-tokenflow-starter |
 | Diff LiteLLM-style pricing and metadata snapshots | https://github.com/vivian254338489/litellm-pricing-metadata-diff |
+| Compare a provider switch before changing `base_url` | https://github.com/vivian254338489/openai-compatible-provider-switch-checklist |
+| Put budget guardrails around gateway usage logs | https://github.com/vivian254338489/openai-compatible-cost-guardrail-kit |
+| Compare gateway routes with offline eval cases | https://github.com/vivian254338489/openai-compatible-gateway-eval-harness |
 | Analyze gateway usage, costs, latency, and errors offline | https://github.com/vivian254338489/llm-gateway-usage-observability-starter |
 | Redact compatible request logs before sharing bug reports | https://github.com/vivian254338489/openai-compatible-log-redaction-kit |
 | Validate Claude Desktop MCP config before restart | https://github.com/vivian254338489/claude-desktop-mcp-config-doctor |
