@@ -7,6 +7,7 @@ Start with:
 - Agent tooling landing page: https://vivian254338489.github.io/openai-compatible-agent-tooling-landing/
 - Awesome OpenAI-compatible stack map: https://github.com/vivian254338489/tken-awesome-openai-compatible
 - MCP OpenAI gateway starter: https://github.com/vivian254338489/mcp-openai-gateway-starter
+- FastMCP OpenAI-compatible tool router kit: https://github.com/vivian254338489/fastmcp-openai-compatible-tool-router-kit
 - Claude Desktop MCPB starter: https://github.com/vivian254338489/claude-desktop-mcpb-starter
 - Open WebUI gateway recipes: https://github.com/vivian254338489/open-webui-gateway-recipes
 - LiteLLM fallback/rate-limit lab: https://github.com/vivian254338489/litellm-fallback-rate-limit-lab
@@ -58,6 +59,7 @@ Useful entry points:
 | --- | --- |
 | Browse agent, MCP, and compatible endpoint tooling | https://vivian254338489.github.io/openai-compatible-agent-tooling-landing/ |
 | Generate MCP client configs for a compatible gateway | https://github.com/vivian254338489/mcp-openai-gateway-starter |
+| Plan FastMCP tool routing to a compatible gateway | https://github.com/vivian254338489/fastmcp-openai-compatible-tool-router-kit |
 | Package a Claude Desktop MCPB extension | https://github.com/vivian254338489/claude-desktop-mcpb-starter |
 | Connect Open WebUI to compatible gateways | https://github.com/vivian254338489/open-webui-gateway-recipes |
 | Reproduce LiteLLM fallback and rate-limit behavior | https://github.com/vivian254338489/litellm-fallback-rate-limit-lab |
