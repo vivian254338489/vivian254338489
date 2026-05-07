@@ -15,6 +15,8 @@ Start with:
 - Agent memory/context kit: https://github.com/vivian254338489/openai-compatible-agent-memory-kit
 - Browser-use operator kit: https://github.com/vivian254338489/browser-use-openai-compatible-operator-kit
 - Open WebUI setup wizard: https://github.com/vivian254338489/openwebui-openai-compatible-setup-wizard
+- Model route decider: https://github.com/vivian254338489/openai-compatible-model-route-decider
+- LiteLLM config wizard: https://github.com/vivian254338489/litellm-openai-compatible-config-wizard
 - Embeddings starter: https://github.com/vivian254338489/openai-compatible-embeddings-starter
 - Streaming/tool-calls tester: https://github.com/vivian254338489/openai-compatible-streaming-tool-calls
 - SDK smoke tests: https://github.com/vivian254338489/openai-compatible-sdk-smoke-tests
@@ -44,6 +46,8 @@ Useful entry points:
 | Store local agent memory and context notes | https://github.com/vivian254338489/openai-compatible-agent-memory-kit |
 | Plan safe browser-use/operator workflows | https://github.com/vivian254338489/browser-use-openai-compatible-operator-kit |
 | Generate Open WebUI provider setup files | https://github.com/vivian254338489/openwebui-openai-compatible-setup-wizard |
+| Decide which model route fits a task | https://github.com/vivian254338489/openai-compatible-model-route-decider |
+| Generate LiteLLM provider/fallback configs | https://github.com/vivian254338489/litellm-openai-compatible-config-wizard |
 | Test embeddings and RAG setup | https://github.com/vivian254338489/openai-compatible-embeddings-starter |
 | Test streaming and tool-call behavior | https://github.com/vivian254338489/openai-compatible-streaming-tool-calls |
 | Run a compatibility smoke-test matrix | https://github.com/vivian254338489/openai-compatible-sdk-smoke-tests |
