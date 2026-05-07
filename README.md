@@ -19,6 +19,9 @@ Start with:
 - Structured output compatibility matrix: https://github.com/vivian254338489/structured-output-compat-matrix
 - Cursor Continue OpenAI router kit: https://github.com/vivian254338489/cursor-continue-openai-router-kit
 - MCP to OpenAI tool schema lab: https://github.com/vivian254338489/mcp-to-openai-tool-schema-lab
+- MCP tool schema budget kit: https://github.com/vivian254338489/mcp-tool-schema-budget-kit
+- Tool-call replay lab: https://github.com/vivian254338489/openai-compatible-tool-call-replay-lab
+- Agent memory portability kit: https://github.com/vivian254338489/agent-memory-portability-kit
 - Endpoint tester: https://github.com/vivian254338489/openai-compatible-endpoint-tester
 - LiteLLM router config pack: https://github.com/vivian254338489/tken-litellm-router-config-pack
 - FastAPI gateway starter: https://github.com/vivian254338489/tken-fastapi-ai-gateway-starter
@@ -104,6 +107,9 @@ Useful entry points:
 | Structured output matrix | https://github.com/vivian254338489/structured-output-compat-matrix |
 | Cursor Continue router kit | https://github.com/vivian254338489/cursor-continue-openai-router-kit |
 | MCP to OpenAI tool schema lab | https://github.com/vivian254338489/mcp-to-openai-tool-schema-lab |
+| MCP tool schema budget kit | https://github.com/vivian254338489/mcp-tool-schema-budget-kit |
+| Tool-call replay lab | https://github.com/vivian254338489/openai-compatible-tool-call-replay-lab |
+| Agent memory portability kit | https://github.com/vivian254338489/agent-memory-portability-kit |
 | Model router estimator | https://github.com/vivian254338489/model-router-bench-lite |
 | Pricing metadata kit | https://github.com/vivian254338489/ai-gateway-pricing-metadata-kit |
 | DeepSeek/Qwen compatible guide | https://github.com/vivian254338489/deepseek-qwen-openai-compatible-guide |
