@@ -4,6 +4,7 @@ I am building small runnable packages for developers who want to test OpenAI-com
 
 Start with:
 
+- Awesome OpenAI-compatible stack map: https://github.com/vivian254338489/tken-awesome-openai-compatible
 - One-click AI stack: https://github.com/vivian254338489/tken-one-click-ai-stack
 - Latest runnable packages: https://github.com/vivian254338489/tken-one-click-ai-stack/releases/latest
 - Live AI API cost calculator: https://vivian254338489.github.io/tken-ai-api-cost-calculator/
@@ -17,6 +18,7 @@ Useful entry points:
 
 | Need | Project |
 | --- | --- |
+| Pick the right OpenAI-compatible setup | https://github.com/vivian254338489/tken-awesome-openai-compatible |
 | Full local gateway and UIs | https://github.com/vivian254338489/tken-one-click-ai-stack |
 | ChatGPT-style starter UI | https://github.com/vivian254338489/chatgpt-web-ui-tken-starter |
 | Open WebUI connector | https://github.com/vivian254338489/tken-openwebui-pipelines |
