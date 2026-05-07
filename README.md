@@ -10,6 +10,7 @@ Start with:
 - FastAPI gateway starter: https://github.com/vivian254338489/tken-fastapi-ai-gateway-starter
 - LangChain starter: https://github.com/vivian254338489/openai-compatible-langchain-starter
 - Cursor/Windsurf guide: https://github.com/vivian254338489/tken-cursor-windsurf-base-url-guide
+- MCP endpoint diagnostics server: https://github.com/vivian254338489/openai-compatible-mcp-server
 - Embeddings starter: https://github.com/vivian254338489/openai-compatible-embeddings-starter
 - Streaming/tool-calls tester: https://github.com/vivian254338489/openai-compatible-streaming-tool-calls
 - SDK smoke tests: https://github.com/vivian254338489/openai-compatible-sdk-smoke-tests
@@ -32,6 +33,7 @@ Useful entry points:
 | Build a FastAPI compatible gateway | https://github.com/vivian254338489/tken-fastapi-ai-gateway-starter |
 | Connect LangChain to a custom endpoint | https://github.com/vivian254338489/openai-compatible-langchain-starter |
 | Configure Cursor or Windsurf base URLs | https://github.com/vivian254338489/tken-cursor-windsurf-base-url-guide |
+| Give agents an MCP endpoint diagnostic tool | https://github.com/vivian254338489/openai-compatible-mcp-server |
 | Test embeddings and RAG setup | https://github.com/vivian254338489/openai-compatible-embeddings-starter |
 | Test streaming and tool-call behavior | https://github.com/vivian254338489/openai-compatible-streaming-tool-calls |
 | Run a compatibility smoke-test matrix | https://github.com/vivian254338489/openai-compatible-sdk-smoke-tests |
