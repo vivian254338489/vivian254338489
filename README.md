@@ -20,6 +20,7 @@ Start with:
 - Continue config wizard: https://github.com/vivian254338489/continue-openai-compatible-config-wizard
 - Cursor config wizard: https://github.com/vivian254338489/cursor-openai-compatible-config-wizard
 - Claude Desktop MCP bridge kit: https://github.com/vivian254338489/claude-desktop-mcp-openai-compatible-bridge-kit
+- MCP directory submission kit: https://github.com/vivian254338489/mcp-server-directory-submission-kit
 - Embeddings starter: https://github.com/vivian254338489/openai-compatible-embeddings-starter
 - Streaming/tool-calls tester: https://github.com/vivian254338489/openai-compatible-streaming-tool-calls
 - SDK smoke tests: https://github.com/vivian254338489/openai-compatible-sdk-smoke-tests
@@ -54,6 +55,7 @@ Useful entry points:
 | Generate Continue/VS Code assistant configs | https://github.com/vivian254338489/continue-openai-compatible-config-wizard |
 | Prepare Cursor-style provider setup notes | https://github.com/vivian254338489/cursor-openai-compatible-config-wizard |
 | Prepare Claude Desktop MCP endpoint config | https://github.com/vivian254338489/claude-desktop-mcp-openai-compatible-bridge-kit |
+| Prepare MCP directory submission materials | https://github.com/vivian254338489/mcp-server-directory-submission-kit |
 | Test embeddings and RAG setup | https://github.com/vivian254338489/openai-compatible-embeddings-starter |
 | Test streaming and tool-call behavior | https://github.com/vivian254338489/openai-compatible-streaming-tool-calls |
 | Run a compatibility smoke-test matrix | https://github.com/vivian254338489/openai-compatible-sdk-smoke-tests |
