@@ -18,6 +18,7 @@ Start with:
 - OpenWebUI TokenFlow starter: https://github.com/vivian254338489/openwebui-tokenflow-starter
 - LiteLLM pricing metadata diff: https://github.com/vivian254338489/litellm-pricing-metadata-diff
 - LLM gateway usage observability starter: https://github.com/vivian254338489/llm-gateway-usage-observability-starter
+- OpenAI-compatible log redaction kit: https://github.com/vivian254338489/openai-compatible-log-redaction-kit
 - Claude Desktop MCP config doctor: https://github.com/vivian254338489/claude-desktop-mcp-config-doctor
 - Structured output compatibility matrix: https://github.com/vivian254338489/structured-output-compat-matrix
 - Cursor Continue OpenAI router kit: https://github.com/vivian254338489/cursor-continue-openai-router-kit
@@ -72,6 +73,7 @@ Useful entry points:
 | Connect Open WebUI to a unified gateway | https://github.com/vivian254338489/openwebui-tokenflow-starter |
 | Diff LiteLLM-style pricing and metadata snapshots | https://github.com/vivian254338489/litellm-pricing-metadata-diff |
 | Analyze gateway usage, costs, latency, and errors offline | https://github.com/vivian254338489/llm-gateway-usage-observability-starter |
+| Redact compatible request logs before sharing bug reports | https://github.com/vivian254338489/openai-compatible-log-redaction-kit |
 | Validate Claude Desktop MCP config before restart | https://github.com/vivian254338489/claude-desktop-mcp-config-doctor |
 | Compare structured-output behavior across providers | https://github.com/vivian254338489/structured-output-compat-matrix |
 | Route coding tasks across Cursor and Continue configs | https://github.com/vivian254338489/cursor-continue-openai-router-kit |
