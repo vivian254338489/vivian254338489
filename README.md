@@ -12,6 +12,8 @@ Start with:
 - Cursor/Windsurf guide: https://github.com/vivian254338489/tken-cursor-windsurf-base-url-guide
 - MCP endpoint diagnostics server: https://github.com/vivian254338489/openai-compatible-mcp-server
 - Agent skills/rules pack: https://github.com/vivian254338489/agent-skills-openai-compatible-pack
+- Agent memory/context kit: https://github.com/vivian254338489/openai-compatible-agent-memory-kit
+- Browser-use operator kit: https://github.com/vivian254338489/browser-use-openai-compatible-operator-kit
 - Embeddings starter: https://github.com/vivian254338489/openai-compatible-embeddings-starter
 - Streaming/tool-calls tester: https://github.com/vivian254338489/openai-compatible-streaming-tool-calls
 - SDK smoke tests: https://github.com/vivian254338489/openai-compatible-sdk-smoke-tests
@@ -38,6 +40,8 @@ Useful entry points:
 | Configure Cursor or Windsurf base URLs | https://github.com/vivian254338489/tken-cursor-windsurf-base-url-guide |
 | Give agents an MCP endpoint diagnostic tool | https://github.com/vivian254338489/openai-compatible-mcp-server |
 | Copy agent skills/rules for compatible endpoints | https://github.com/vivian254338489/agent-skills-openai-compatible-pack |
+| Store local agent memory and context notes | https://github.com/vivian254338489/openai-compatible-agent-memory-kit |
+| Plan safe browser-use/operator workflows | https://github.com/vivian254338489/browser-use-openai-compatible-operator-kit |
 | Test embeddings and RAG setup | https://github.com/vivian254338489/openai-compatible-embeddings-starter |
 | Test streaming and tool-call behavior | https://github.com/vivian254338489/openai-compatible-streaming-tool-calls |
 | Run a compatibility smoke-test matrix | https://github.com/vivian254338489/openai-compatible-sdk-smoke-tests |
