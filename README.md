@@ -13,6 +13,7 @@ Start with:
 - JSON mode structured output cookbook: https://github.com/vivian254338489/json-mode-structured-output-cookbook
 - AI gateway pricing metadata kit: https://github.com/vivian254338489/ai-gateway-pricing-metadata-kit
 - OpenAI-compatible API conformance kit: https://github.com/vivian254338489/openai-compatible-api-conformance-kit
+- OpenWebUI TokenFlow starter: https://github.com/vivian254338489/openwebui-tokenflow-starter
 - Endpoint tester: https://github.com/vivian254338489/openai-compatible-endpoint-tester
 - LiteLLM router config pack: https://github.com/vivian254338489/tken-litellm-router-config-pack
 - FastAPI gateway starter: https://github.com/vivian254338489/tken-fastapi-ai-gateway-starter
@@ -55,6 +56,7 @@ Useful entry points:
 | Cook JSON mode and schema-shaped outputs | https://github.com/vivian254338489/json-mode-structured-output-cookbook |
 | Edit model pricing metadata and budget-routing notes | https://github.com/vivian254338489/ai-gateway-pricing-metadata-kit |
 | Produce an OpenAI-compatible API conformance report | https://github.com/vivian254338489/openai-compatible-api-conformance-kit |
+| Connect Open WebUI to a unified gateway | https://github.com/vivian254338489/openwebui-tokenflow-starter |
 | Pick the right OpenAI-compatible setup | https://github.com/vivian254338489/tken-awesome-openai-compatible |
 | Test a custom OpenAI-compatible endpoint | https://github.com/vivian254338489/openai-compatible-endpoint-tester |
 | Configure LiteLLM routing and fallback | https://github.com/vivian254338489/tken-litellm-router-config-pack |
@@ -80,6 +82,7 @@ Useful entry points:
 | Full local gateway and UIs | https://github.com/vivian254338489/tken-one-click-ai-stack |
 | ChatGPT-style starter UI | https://github.com/vivian254338489/chatgpt-web-ui-tken-starter |
 | Open WebUI connector | https://github.com/vivian254338489/tken-openwebui-pipelines |
+| OpenWebUI TokenFlow starter | https://github.com/vivian254338489/openwebui-tokenflow-starter |
 | VS Code / Continue config | https://github.com/vivian254338489/tken-vscode-continue-config-pack |
 | OpenAI-compatible examples | https://github.com/vivian254338489/tken-openai-compatible-examples |
 | Routing cookbook | https://github.com/vivian254338489/openai-compatible-routing-cookbook |
