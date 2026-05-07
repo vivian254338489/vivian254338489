@@ -19,6 +19,7 @@ Useful entry points:
 | VS Code / Continue config | https://github.com/vivian254338489/tken-vscode-continue-config-pack |
 | OpenAI-compatible examples | https://github.com/vivian254338489/tken-openai-compatible-examples |
 | Gateway starter | https://github.com/vivian254338489/tken-ai-gateway-starter |
+| Fallback proxy | https://github.com/vivian254338489/ai-model-fallback-proxy |
 | Cost calculator | https://github.com/vivian254338489/tken-ai-api-cost-calculator |
 
 Disclosure: I work on TKEN-related tooling. The examples are designed to stay compatible with other OpenAI-compatible providers too.
