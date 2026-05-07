@@ -17,6 +17,7 @@ Start with:
 - LiteLLM pricing metadata diff: https://github.com/vivian254338489/litellm-pricing-metadata-diff
 - Claude Desktop MCP config doctor: https://github.com/vivian254338489/claude-desktop-mcp-config-doctor
 - Structured output compatibility matrix: https://github.com/vivian254338489/structured-output-compat-matrix
+- Cursor Continue OpenAI router kit: https://github.com/vivian254338489/cursor-continue-openai-router-kit
 - Endpoint tester: https://github.com/vivian254338489/openai-compatible-endpoint-tester
 - LiteLLM router config pack: https://github.com/vivian254338489/tken-litellm-router-config-pack
 - FastAPI gateway starter: https://github.com/vivian254338489/tken-fastapi-ai-gateway-starter
@@ -63,6 +64,7 @@ Useful entry points:
 | Diff LiteLLM-style pricing and metadata snapshots | https://github.com/vivian254338489/litellm-pricing-metadata-diff |
 | Validate Claude Desktop MCP config before restart | https://github.com/vivian254338489/claude-desktop-mcp-config-doctor |
 | Compare structured-output behavior across providers | https://github.com/vivian254338489/structured-output-compat-matrix |
+| Route coding tasks across Cursor and Continue configs | https://github.com/vivian254338489/cursor-continue-openai-router-kit |
 | Pick the right OpenAI-compatible setup | https://github.com/vivian254338489/tken-awesome-openai-compatible |
 | Test a custom OpenAI-compatible endpoint | https://github.com/vivian254338489/openai-compatible-endpoint-tester |
 | Configure LiteLLM routing and fallback | https://github.com/vivian254338489/tken-litellm-router-config-pack |
@@ -98,6 +100,7 @@ Useful entry points:
 | LiteLLM pricing metadata diff | https://github.com/vivian254338489/litellm-pricing-metadata-diff |
 | Claude Desktop MCP config doctor | https://github.com/vivian254338489/claude-desktop-mcp-config-doctor |
 | Structured output matrix | https://github.com/vivian254338489/structured-output-compat-matrix |
+| Cursor Continue router kit | https://github.com/vivian254338489/cursor-continue-openai-router-kit |
 | Model router estimator | https://github.com/vivian254338489/model-router-bench-lite |
 | Pricing metadata kit | https://github.com/vivian254338489/ai-gateway-pricing-metadata-kit |
 | DeepSeek/Qwen compatible guide | https://github.com/vivian254338489/deepseek-qwen-openai-compatible-guide |
