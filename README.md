@@ -19,6 +19,7 @@ Start with:
 - LiteLLM pricing metadata diff: https://github.com/vivian254338489/litellm-pricing-metadata-diff
 - Provider switch checklist: https://github.com/vivian254338489/openai-compatible-provider-switch-checklist
 - Provider migration CI kit: https://github.com/vivian254338489/openai-compatible-provider-migration-ci-kit
+- API key rotation kit: https://github.com/vivian254338489/openai-compatible-api-key-rotation-kit
 - Prompt regression CI kit: https://github.com/vivian254338489/openai-compatible-prompt-regression-ci-kit
 - Billing reconciliation kit: https://github.com/vivian254338489/openai-compatible-billing-reconciliation-kit
 - Cost guardrail kit: https://github.com/vivian254338489/openai-compatible-cost-guardrail-kit
@@ -80,6 +81,7 @@ Useful entry points:
 | Diff LiteLLM-style pricing and metadata snapshots | https://github.com/vivian254338489/litellm-pricing-metadata-diff |
 | Compare a provider switch before changing `base_url` | https://github.com/vivian254338489/openai-compatible-provider-switch-checklist |
 | Add provider migration checks to CI | https://github.com/vivian254338489/openai-compatible-provider-migration-ci-kit |
+| Check API key rotation and env hygiene before cutover | https://github.com/vivian254338489/openai-compatible-api-key-rotation-kit |
 | Catch prompt and output regressions in CI | https://github.com/vivian254338489/openai-compatible-prompt-regression-ci-kit |
 | Reconcile usage logs against balance or invoice rows | https://github.com/vivian254338489/openai-compatible-billing-reconciliation-kit |
 | Put budget guardrails around gateway usage logs | https://github.com/vivian254338489/openai-compatible-cost-guardrail-kit |
