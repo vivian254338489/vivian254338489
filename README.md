@@ -22,6 +22,7 @@ Start with:
 - API key rotation kit: https://github.com/vivian254338489/openai-compatible-api-key-rotation-kit
 - Prompt regression CI kit: https://github.com/vivian254338489/openai-compatible-prompt-regression-ci-kit
 - Billing reconciliation kit: https://github.com/vivian254338489/openai-compatible-billing-reconciliation-kit
+- LLM cost attribution recipes: https://github.com/vivian254338489/llm-cost-attribution-recipes
 - Cost guardrail kit: https://github.com/vivian254338489/openai-compatible-cost-guardrail-kit
 - SLA incident drill kit: https://github.com/vivian254338489/openai-compatible-sla-incident-drill-kit
 - Gateway eval harness: https://github.com/vivian254338489/openai-compatible-gateway-eval-harness
@@ -85,6 +86,7 @@ Useful entry points:
 | Check API key rotation and env hygiene before cutover | https://github.com/vivian254338489/openai-compatible-api-key-rotation-kit |
 | Catch prompt and output regressions in CI | https://github.com/vivian254338489/openai-compatible-prompt-regression-ci-kit |
 | Reconcile usage logs against balance or invoice rows | https://github.com/vivian254338489/openai-compatible-billing-reconciliation-kit |
+| Attribute LLM spend by user, feature, route, model, retry, and tool call | https://github.com/vivian254338489/llm-cost-attribution-recipes |
 | Put budget guardrails around gateway usage logs | https://github.com/vivian254338489/openai-compatible-cost-guardrail-kit |
 | Run an SLA incident drill before gateway rollout | https://github.com/vivian254338489/openai-compatible-sla-incident-drill-kit |
 | Compare gateway routes with offline eval cases | https://github.com/vivian254338489/openai-compatible-gateway-eval-harness |
