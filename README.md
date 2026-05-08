@@ -23,6 +23,7 @@ Start with:
 - Prompt regression CI kit: https://github.com/vivian254338489/openai-compatible-prompt-regression-ci-kit
 - Billing reconciliation kit: https://github.com/vivian254338489/openai-compatible-billing-reconciliation-kit
 - Cost guardrail kit: https://github.com/vivian254338489/openai-compatible-cost-guardrail-kit
+- SLA incident drill kit: https://github.com/vivian254338489/openai-compatible-sla-incident-drill-kit
 - Gateway eval harness: https://github.com/vivian254338489/openai-compatible-gateway-eval-harness
 - LLM gateway usage observability starter: https://github.com/vivian254338489/llm-gateway-usage-observability-starter
 - OpenAI-compatible log redaction kit: https://github.com/vivian254338489/openai-compatible-log-redaction-kit
@@ -85,6 +86,7 @@ Useful entry points:
 | Catch prompt and output regressions in CI | https://github.com/vivian254338489/openai-compatible-prompt-regression-ci-kit |
 | Reconcile usage logs against balance or invoice rows | https://github.com/vivian254338489/openai-compatible-billing-reconciliation-kit |
 | Put budget guardrails around gateway usage logs | https://github.com/vivian254338489/openai-compatible-cost-guardrail-kit |
+| Run an SLA incident drill before gateway rollout | https://github.com/vivian254338489/openai-compatible-sla-incident-drill-kit |
 | Compare gateway routes with offline eval cases | https://github.com/vivian254338489/openai-compatible-gateway-eval-harness |
 | Analyze gateway usage, costs, latency, and errors offline | https://github.com/vivian254338489/llm-gateway-usage-observability-starter |
 | Redact compatible request logs before sharing bug reports | https://github.com/vivian254338489/openai-compatible-log-redaction-kit |
